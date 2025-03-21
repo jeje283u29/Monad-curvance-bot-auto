@@ -48,5 +48,5 @@ Source: [Curvance on Monad](https://monad.curvance.com/monad)
 
 - Follow the prompts to enter the number of transactions to send per private key.
 
-Last updated: Fri Mar 21 08:24:35 UTC 2025
+Last updated: Fri Mar 21 16:23:32 UTC 2025
 
